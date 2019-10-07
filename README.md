@@ -4,5 +4,5 @@ GoBarber API is a estructure of backend for an Application of Barber Shop.
 
 ## How To Use?
 
-install Yarn and execute on root the command `yarn` for install the dependecies
+install Yarn and execute on root the command `yarn` for install the dependencies
 and `yarn dev` to start in development mode.
